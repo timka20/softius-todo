@@ -1,6 +1,7 @@
 # TODO List ООО "Софтиус"
 
 Демо: https://softius.timka20.ru/
+Авторизация: admin / admin
 
 Серверная часть построена на фреймворке Express.js с СУБД SQLite (через драйвер better-sqlite3). 
 Реализованы REST API эндпоинты:
